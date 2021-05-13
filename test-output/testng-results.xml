@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3635" started-at="2021-04-25T12:39:28Z" finished-at="2021-04-25T12:39:32Z">
+  <suite name="Default suite" duration-ms="5368" started-at="2021-05-13T15:19:31Z" finished-at="2021-05-13T15:19:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3635" started-at="2021-04-25T12:39:28Z" finished-at="2021-04-25T12:39:32Z">
+    <test name="Default test" duration-ms="5368" started-at="2021-05-13T15:19:31Z" finished-at="2021-05-13T15:19:36Z">
       <class name="LoginPage.LoginRestAPI">
-        <test-method status="PASS" signature="f()[pri:0, instance:LoginPage.LoginRestAPI@47fd17e3]" name="f" duration-ms="3613" started-at="2021-04-25T18:09:28Z" finished-at="2021-04-25T18:09:32Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:LoginPage.LoginRestAPI@17d99928]" name="f" duration-ms="5351" started-at="2021-05-13T20:49:31Z" finished-at="2021-05-13T20:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
